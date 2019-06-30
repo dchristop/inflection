@@ -28,6 +28,9 @@ Installation
 ``` r
 # Install with dependencies:
 install.packages('inflection',dependencies=TRUE)
+
+# Install from GitHub:
+devtools::install_github('dchristop/inflection')
 ```
 
 Usage
